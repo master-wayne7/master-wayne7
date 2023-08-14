@@ -1,5 +1,5 @@
 <img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/13005-batmanrunning/download"/><h1 align="Left">Hi 👋, I'm Ronit Rameja</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="left">🚀 Flutter Developer with a passion for crafting dynamic, user-centered apps that enhance experiences and solve challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=master-wayne7&label=Profile%20views&color=0e75b6&style=flat" alt="master-wayne7" /> </p>
 
