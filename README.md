@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ronit Rameja</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhldDhpY29lYjZ3eXJzYTlnM3E5ODdqbmRsZ2E3cjR4cTZramhxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=master-wayne7&label=Profile%20views&color=0e75b6&style=flat" alt="master-wayne7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-wayne7" alt="master-wayne7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ramejaronit" target="blank"><img src="https://img.shields.io/twitter/follow/ramejaronit?logo=twitter&style=for-the-badge" alt="ramejaronit" /></a> </p>
+<div>
+  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhldDhpY29lYjZ3eXJzYTlnM3E5ODdqbmRsZ2E3cjR4cTZramhxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on [Amazon clone](https://github.com/master-wayne7/amazon_clone.git)
 
@@ -14,16 +15,16 @@
 
 - 🤝 I’m looking for help with [Multiplayer Tic-Tac-Toe](https://github.com/master-wayne7/mp_tictactoe)
 
-- 👨‍💻 All of my projects are available at [https://master-wayne7.github.io/portfolio/](https://master-wayne7.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://master-wayne7.github.io/portfolio/)
 
 - 💬 Ask me about **Flutter, Machine Learning, Data Science**
 
 - 📫 How to reach me **ronitrameja28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MxBQ4aJ-um1hzKgetFOuWxX99Gf-Z8tE/view?usp=sharing](https://drive.google.com/file/d/1MxBQ4aJ-um1hzKgetFOuWxX99Gf-Z8tE/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MxBQ4aJ-um1hzKgetFOuWxX99Gf-Z8tE/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Batman fan and a fitness freak.**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ramejaronit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramejaronit" height="30" width="40" /></a>
