@@ -1,4 +1,4 @@
-<img align="left" alt="Java" width="50" style="padding-right:20x;"  src="https://slackmojis.com/emojis/40698-bat/download"/><h1 align="center">Hi 👋, I'm Ronit Rameja</h1>
+<img align="left" alt="Java" width="50" style="padding-right:20x;"  src="https://slackmojis.com/emojis/13005-batmanrunning/download"/><h1 align="center">Hi 👋, I'm Ronit Rameja</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=master-wayne7&label=Profile%20views&color=0e75b6&style=flat" alt="master-wayne7" /> </p>
