@@ -100,3 +100,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=master-wayne7&show_icons=true&locale=en&theme=tokyonight" alt="master-wayne7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=master-wayne7&&theme=tokyonight" alt="master-wayne7" /></p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ronitrameja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronitrameja" /></a><a href="https://ko-fi.com/ronitrameja"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ronitrameja" /></a></p><br><br>
