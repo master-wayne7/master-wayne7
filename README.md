@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=master-wayne7&label=Profile%20views&color=0e75b6&style=flat" alt="master-wayne7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-wayne7" alt="master-wayne7" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=master-wayne7&theme=tokyonight" alt="master-wayne7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ramejaronit" target="blank"><img src="https://img.shields.io/twitter/follow/ramejaronit?logo=twitter&style=for-the-badge" alt="ramejaronit" /></a> </p>
 <div>
