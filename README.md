@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Amazon clone](https://github.com/master-wayne7/amazon_clone.git)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js, Clean Architecture and BLOC**
 
 - 🤝 I’m looking for help with [Multiplayer Tic-Tac-Toe](https://github.com/master-wayne7/mp_tictactoe)
 
