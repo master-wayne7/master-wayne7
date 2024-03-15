@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Multiplayer Tic-Tac-Toe](https://github.com/master-wayne7/mp_tictactoe)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://master-wayne7.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-87bd3.web.app/)
 
 - 💬 Ask me about **Flutter, Machine Learning, Data Science**
 
