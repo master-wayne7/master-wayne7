@@ -102,5 +102,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=master-wayne7&&theme=tokyonight" alt="master-wayne7" /></p>
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ronitrameja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ronitrameja" /></a><a href="https://ko-fi.com/ronitrameja"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ronitrameja" /></a></p><br><br>
