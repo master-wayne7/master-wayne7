@@ -9,15 +9,11 @@
 <div>
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhldDhpY29lYjZ3eXJzYTlnM3E5ODdqbmRsZ2E3cjR4cTZramhxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [Amazon clone](https://github.com/master-wayne7/amazon_clone.git)
-
-- 🌱 I’m currently learning **RUST**
-
-- 🤝 I’m looking for help with [Multiplayer Tic-Tac-Toe](https://github.com/master-wayne7/mp_tictactoe)
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-87bd3.web.app/)
 
-- 💬 Ask me about **Flutter, Machine Learning, Data Science**
+- 💬 Ask me about **Flutter, Backend, Machine Learning**
 
 - 📫 How to reach me **ronitrameja28@gmail.com**
 
