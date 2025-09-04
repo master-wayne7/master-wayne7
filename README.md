@@ -97,10 +97,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=master-wayne7&&theme=tokyonight" alt="master-wayne7" /></p>
 
-<picture>
-<img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
-</picture>
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <h3 align="left">Support:</h3>
